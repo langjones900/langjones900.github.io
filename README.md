@@ -21,8 +21,11 @@ Implications:
 This data-driven analysis underscores the evolving landscape of NFL quarterbacks, where both experienced players and newcomers are making significant impacts. As teams focus on developing young talent, understanding these dynamics will be crucial for fans and analysts alike.
 
 Infographic Text:
+
 Title: The Rise of NFL Quarterbacks in 2023
+
 Author: Amelia Probst
+
 Data Source: [Pro Football Focus](https://www.pff.com/news/nfl-final-2023-analytical-quarterback-rankings-lamar-jackson-dak-prescott-lead-the-way).
 
 Description: This infographic examines the performance of NFL quarterbacks in the 2023 season, spotlighting top performers and rising stars.
