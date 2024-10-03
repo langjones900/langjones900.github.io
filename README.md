@@ -35,3 +35,5 @@ Methods: Utilized advanced statistics and metrics to rank quarterbacks based on 
 Key Findings: Highlights the efficiency of Lamar Jackson and Dak Prescott, along with the impressive seasons of rookies like C.J. Stroud.
 
 Implications: A deeper understanding of quarterback performance is essential for fans and teams as the league continues to evolve.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1U0iOjlwSORJXES3O15-V4bmPhgyF8JBP3DOH2igzN4k&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
