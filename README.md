@@ -45,3 +45,8 @@ Title: Major Moments in the History of College Football
 Description: This project is based on the the moments in college football that significantly changes how the either the game is played or how different decisions affect conferences, teams, players, etc. An example could be how college football recently reinvented the playoff system where now the top 12 teams in the country can compete to win the national championship instead of the top 4 teams. There is a lot more variety with this variation of the playoffs which also leads to more games being played, but also makes it easier for teams to beable to afford more mistakes and still make the playoffs
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kM8ofw5O9iCk0cVz9MzWneKTlys0lZ-vGW9olH7NeaM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+
+
+![Top_5_Sports_by_Global_Popularity_Number_of_Fans(Millions)_chartbuilder](https://github.com/user-attachments/assets/a932b457-56b6-460a-acec-fa553f9a9e7d)
+
