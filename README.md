@@ -50,3 +50,5 @@ Description: This project is based on the the moments in college football that s
 
 ![Top_5_Sports_by_Global_Popularity_Number_of_Fans(Millions)_chartbuilder](https://github.com/user-attachments/assets/a932b457-56b6-460a-acec-fa553f9a9e7d)
 
+
+![_Global_CO2_Emissions_China_(Billion_Tonnes)_USA_(Billion_Tonnes)_India_(Billion_Tonnes)_chartbuilder](https://github.com/user-attachments/assets/4ce0d688-822e-4e78-b25f-fe8f66cbe5fb)
